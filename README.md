@@ -1,4 +1,4 @@
-# Recupete-Redesign
+# Recupete Redesign
 In 2018, I was asked to redesign the website of a small startup company called Recupete.
 
 # Technologies used
