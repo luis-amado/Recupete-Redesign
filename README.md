@@ -5,4 +5,4 @@ In 2018, I was asked to redesign the website of a small startup company called R
 HTML, CSS and Javascript
 
 # Website Link
-The startup no longer exists but the website I created is currently hosted on
+The startup no longer exists but the website I created is currently hosted on firebase
